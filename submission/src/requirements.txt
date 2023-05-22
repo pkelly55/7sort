@@ -1,0 +1,3 @@
+matplotlib
+PySide2
+PyQt5
